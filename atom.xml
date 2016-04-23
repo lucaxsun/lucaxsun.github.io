@@ -4,9 +4,9 @@
   <subtitle>大吃货 爱美食</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://lucasun.ml/"/>
   <updated>2016-04-22T08:59:05.384Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://lucasun.ml/</id>
   
   <author>
     <name>Luca Sun</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Markdown test</title>
-    <link href="http://yoursite.com/2016/04/22/post/"/>
-    <id>http://yoursite.com/2016/04/22/post/</id>
+    <link href="http://lucasun.ml/2016/04/22/post/"/>
+    <id>http://lucasun.ml/2016/04/22/post/</id>
     <published>2016-04-22T08:45:12.000Z</published>
     <updated>2016-04-22T08:59:05.384Z</updated>
     
@@ -61,10 +61,10 @@
     
     </summary>
     
-      <category term="Markdown" scheme="http://yoursite.com/categories/Markdown/"/>
+      <category term="Markdown" scheme="http://lucasun.ml/categories/Markdown/"/>
     
     
-      <category term="-test -Markdown" scheme="http://yoursite.com/tags/test-Markdown/"/>
+      <category term="-test -Markdown" scheme="http://lucasun.ml/tags/test-Markdown/"/>
     
   </entry>
   
