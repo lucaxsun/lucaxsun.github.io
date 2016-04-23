@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lucasun.ml/"/>
-  <updated>2016-04-23T08:44:29.886Z</updated>
+  <updated>2016-04-23T11:44:09.328Z</updated>
   <id>http://lucasun.ml/</id>
   
   <author>
@@ -16,11 +16,53 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Markdown</title>
+    <link href="http://lucasun.ml/post/2016-04-23-markdown.html"/>
+    <id>http://lucasun.ml/post/2016-04-23-markdown.html</id>
+    <published>2016-04-23T11:06:27.000Z</published>
+    <updated>2016-04-23T11:44:09.328Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;是使用 Markdown 编辑文章的，我写的这些文章也都是用这种标记语言完成的。所以，我们先从 Markdown 说起。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;什么是Markdown&lt;/li&gt;
+&lt;li&gt;Markdown语法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;什么是-MarMarkdown&quot;&gt;&lt;a href=&quot;#什么是-MarMarkdown&quot; class=&quot;headerlink&quot; title=&quot;什么是 MarMarkdown&quot;&gt;&lt;/a&gt;什么是 MarMarkdown&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Markdown 是一种轻量级标记语言，创始人为约翰 · 格鲁伯和亚伦 · 斯沃茨。它允许人们 “使用易读易写的纯文本格式编写文档，然后转换成有效的 XHTML 文档”。 ——维基百科&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;Markdown-语法&quot;&gt;&lt;a href=&quot;#Markdown-语法&quot; class=&quot;headerlink&quot; title=&quot;Markdown 语法&quot;&gt;&lt;/a&gt;Markdown 语法&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;分段：&lt;code&gt;两个回车&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;换行：&lt;code&gt;两个空格+回车&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;标题：&lt;code&gt;#&lt;/code&gt; ~ &lt;code&gt;######&lt;/code&gt;井号的个数表示几级标题，即 Markdown 可以表示一级标题到六级标题&lt;/li&gt;
+&lt;li&gt;引用：&lt;code&gt;&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;列表：&lt;code&gt;*&lt;/code&gt;，&lt;code&gt;+&lt;/code&gt; ， &lt;code&gt;-&lt;/code&gt;， &lt;code&gt;1&lt;/code&gt;. ，选其中之一，注意后面有个空格&lt;/li&gt;
+&lt;li&gt;代码区块 四个空格 开头&lt;/li&gt;
+&lt;li&gt;链接：&lt;code&gt;[文字](链接地址)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;图片：&lt;code&gt;![图片说明](图片地址)&lt;/code&gt; ，图片地址可以是本地路劲，也可以是网络地址&lt;/li&gt;
+&lt;li&gt;强调： &lt;code&gt;**文字**&lt;/code&gt;，&lt;code&gt;__文字__&lt;/code&gt;，&lt;code&gt;_文字_&lt;/code&gt;，&lt;code&gt;*文字*&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;代码：    ``&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;是使用 Markdown 编辑文章的，我写的这些文章也都是用这种标记语言完成的。所以，我们先从 Markdown 说起。&lt;/p&gt;
+&lt;ul&gt;
+
+    
+    </summary>
+    
+    
+      <category term="Markdown" scheme="http://lucasun.ml/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
     <title>终于搞好了！</title>
-    <link href="http://lucasun.ml/2016/04/23/hello%20words/"/>
-    <id>http://lucasun.ml/2016/04/23/hello words/</id>
+    <link href="http://lucasun.ml/post/2016-04-23-hello%20words.html"/>
+    <id>http://lucasun.ml/post/2016-04-23-hello words.html</id>
     <published>2016-04-23T07:08:14.000Z</published>
-    <updated>2016-04-23T08:44:29.886Z</updated>
+    <updated>2016-04-23T10:56:39.913Z</updated>
     
     <content type="html">&lt;p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;br&gt;千淘万漉虽辛苦，&lt;br&gt;吹尽狂沙始得金。&lt;br&gt;&lt;/blockquote&gt;&lt;br&gt;&lt;strong&gt;只是为了写点东西而已&lt;/strong&gt;&lt;/p&gt;
 </content>
