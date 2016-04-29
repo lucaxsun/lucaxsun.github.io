@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lucasun.ml/"/>
-  <updated>2016-04-25T08:02:15.756Z</updated>
+  <updated>2016-04-29T01:58:16.116Z</updated>
   <id>http://lucasun.ml/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20160429组会</title>
+    <link href="http://lucasun.ml/post/2016-04-29-Weekly%20Meeting.html"/>
+    <id>http://lucasun.ml/post/2016-04-29-Weekly Meeting.html</id>
+    <published>2016-04-29T01:55:14.000Z</published>
+    <updated>2016-04-29T01:58:16.116Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;br&gt;精其一而绝天下&lt;br&gt;&lt;/blockquote&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;你看，楚萍就会办事！！&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;br&gt;精其一而绝天下&lt;br&gt;&lt;/blockquote&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;你看，楚萍就会办事！！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+    </summary>
+    
+      <category term="生活" scheme="http://lucasun.ml/categories/life/"/>
+    
+    
+      <category term="随笔" scheme="http://lucasun.ml/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="生活" scheme="http://lucasun.ml/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown</title>
