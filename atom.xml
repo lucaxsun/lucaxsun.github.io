@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lucasun.ml/"/>
-  <updated>2016-04-29T01:58:16.116Z</updated>
+  <updated>2016-06-10T04:35:42.320Z</updated>
   <id>http://lucasun.ml/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>无题</title>
+    <link href="http://lucasun.ml/post/2016-06-10-Poem.html"/>
+    <id>http://lucasun.ml/post/2016-06-10-Poem.html</id>
+    <published>2016-06-10T04:34:14.000Z</published>
+    <updated>2016-06-10T04:35:42.320Z</updated>
+    
+    <content type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;br&gt;纸醉金迷积天地，花言巧语遍古今；&lt;br&gt;尔虞我诈零落泪，唯有故人知我心。&lt;br&gt;&lt;/blockquote&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;br&gt;纸醉金迷积天地，花言巧语遍古今；&lt;br&gt;尔虞我诈零落泪，唯有故人知我心。&lt;br&gt;&lt;/blockquote&gt;
+
+    
+    </summary>
+    
+      <category term="生活" scheme="http://lucasun.ml/categories/life/"/>
+    
+    
+      <category term="随笔" scheme="http://lucasun.ml/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="生活" scheme="http://lucasun.ml/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>20160429组会</title>
